@@ -11,3 +11,4 @@ Stomatology
 Biochemistry
 Anatomy
 Histology
+Neurology
