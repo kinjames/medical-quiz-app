@@ -7,5 +7,6 @@ The reason for this project is to help assist medical students to revise their n
 Topics to cover
 
 gyneacology
-
+Stomatology
+Biochemistry
  
