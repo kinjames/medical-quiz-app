@@ -14,3 +14,4 @@ Histology
 Neurology
 Microbiology
 Immunology
+Organic Chemistry
