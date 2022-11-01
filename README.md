@@ -16,3 +16,4 @@ Microbiology
 Immunology
 Organic Chemistry
 Inorganic chemistry
+Diagnostics
