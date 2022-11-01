@@ -15,3 +15,4 @@ Neurology
 Microbiology
 Immunology
 Organic Chemistry
+Inorganic chemistry
