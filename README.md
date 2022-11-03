@@ -20,3 +20,4 @@ Diagnostics
 Epidemiology & Biostatistics
 Internal Medicine
 Neuroscience
+Pharmacology
