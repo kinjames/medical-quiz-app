@@ -17,3 +17,4 @@ Immunology
 Organic Chemistry
 Inorganic chemistry
 Diagnostics
+Epidemiology & Biostatistics
